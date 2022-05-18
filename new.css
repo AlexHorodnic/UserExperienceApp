@@ -1,0 +1,61 @@
+/* ------------------------------------- GENERAL ------------------------------------- */
+* {
+    font-family: 'Gideon Roman', cursive;
+    font-family: 'Montserrat', sans-serif;
+}
+body {
+    background-color: white;
+    font-family: 'Gideon Roman', cursive;
+    padding: 0%;
+}
+.container{
+
+}
+.row1{
+    background-color: #c00404;
+
+    color: white;
+    font-size: 20px;
+}
+a{
+    color: white;
+    padding: 5px;
+    text-decoration: none;
+}
+a:hover{
+    color: black;
+    transition: color 0.5s;
+}
+.logo{
+    color: white;
+    font-size: 30px;
+    background-color: black;
+    border-radius: 50%;
+}
+.logo:hover{
+    color: white;
+    transition: color 0.5s;
+}
+.searchrow{
+    padding-bottom: 20px;
+}
+.row4{
+    background-color: rgb(63, 63, 63);
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+.more{
+    color: red;
+    font-size: 20px;
+    padding: 0;
+}
+.img-fluid{
+    border: 1px solid red;
+}
+.title{
+    background-image: linear-gradient(  rgb(255, 255, 255), rgb(255, 198, 198));
+    padding: 5px;
+}
+#a,#b,#c,#d{
+    font-size: 16px;
+}

@@ -1,0 +1,31 @@
+/* ------------------------------------- GENERAL ------------------------------------- */
+* {
+    font-family: 'Gideon Roman', cursive;
+}
+body {
+    background-color: white;
+    font-family: 'Gideon Roman', cursive;
+    padding: 0%;
+}
+.container{
+
+    background-color: rgb(204, 204, 204);
+}
+.row1{
+    background-color: black;
+    height: 50px;
+    color: white;
+}
+a{
+    color: white;
+    padding: 5px;
+}
+a:hover{
+    color: red;
+}
+.row3{
+    color: whitesmoke;
+}
+.more{
+    color: red;
+}
